@@ -18,7 +18,7 @@ laravel new helloWorld
 ``` 
 
 ```bash
-cd example-app
+cd helloWorld
  
 php artisan serve
 ``` 
